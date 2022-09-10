@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7mood912
-- 👨‍🎓 I'm a 4rd year software engineering student at Arab International University 
+- 👨‍🎓 I'm a 3rd year software engineering student at Arab International University 
 - 👀 I’m interested in Android and Web Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Visual Studio Live Share
