@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7mood912
+- 👋 Hi, I’m Mohammad Hussein Hamed
 - 👨‍🎓 I'm a 3rd-year software engineering student at Arab International University 
 - 👀 I’m interested in Android and Web Development
 - 🌱 I’m currently learning C++
